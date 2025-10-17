@@ -67,7 +67,7 @@ body
     
 }
 .menu li:hover{
-    text-decoration: underline #f5811e;
+    text-decoration: underline #25f51e;
     text-underline-offset: 5px;
     
     font-weight: 400;
